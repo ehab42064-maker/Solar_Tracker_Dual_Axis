@@ -22,6 +22,6 @@ Le système effectue des micro-ajustements tant que la différence (erreur) est 
 ## 🔗 Liens et Preuves
 | Type | Lien |
 | :--- | :--- |
-| **Démonstration Vidéo** | https://drive.google.com/file/d/VIDEO_YOUR_PROJECT |
-| **Schéma de Câblage** | https://drive.google.com/file/d/SCHEMATIC_YOUR_PROJECT |
+| **Démonstration Vidéo** | https://drive.google.com/file/d/1ih3KdX_-X_LfJlmYG1YCA49sW2sV_66H/view?usp=drivesdk |
+| **Schéma de Câblage** | https://drive.google.com/file/d/13MyOSWfcLdzqk2B2ID4qDwU10kNigz2y/view?usp=drivesdk |
 | **Code Source** | Le code est disponible dans le répertoire principal (`Solar_Tracker_Code.ino`). |
